@@ -36,9 +36,9 @@ class GenerateArray(IrisCommand):
 
 ## Installation guide
 
-### Warning! The current version of Iris is an alpha release. We are still adding many new commands to the system and fixing bugs. A production-ready beta release will be out later this summer. Use at your own risk!
+### Warning! This code has been essentially written by Ethan Fast at Stanford. We are using the backend to create new commands for data analysis using natural language. We are currently working on a plugin for Excel and Slack, to connect this interface.
 
-These are instructions to install and run Iris in debugging mode. A self-contained Electron app for OSX will be released later this summer.
+These are instructions to install and run Iris in debugging mode.
 
 You will first need to [install anaconda](https://conda.io/docs/install/quick.html). (Make sure to run `source ~/.bash_profile` after you have installed Anaconda, if it is not appearing in your path.)
 
